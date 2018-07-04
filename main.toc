@@ -1,0 +1,17 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introduction}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}Software used to develop the OJ}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}Features}{2}{section.1.3}
+\contentsline {section}{\numberline {1.4}Project Purpose}{2}{section.1.4}
+\contentsline {chapter}{\numberline {2}System Requirements \& Design}{3}{chapter.2}
+\contentsline {chapter}{\numberline {3}Overview of Online Judge}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}Description}{5}{section.3.1}
+\contentsline {section}{\numberline {3.2}Design}{5}{section.3.2}
+\contentsline {section}{\numberline {3.3}Diagram}{5}{section.3.3}
+\contentsline {chapter}{\numberline {4}Literature Review}{7}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{7}{section.4.1}
+\contentsline {section}{\numberline {4.2}Codecademy}{7}{section.4.2}
+\contentsline {section}{\numberline {4.3}Codeforces}{7}{section.4.3}
+\contentsline {chapter}{\numberline {5}Futere Plan}{9}{chapter.5}
+\contentsline {section}{\numberline {5.1}Future Plan of STAR OJ}{9}{section.5.1}
+\contentsline {section}{\numberline {5.2}Conclusion}{9}{section.5.2}
